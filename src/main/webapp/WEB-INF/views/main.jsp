@@ -52,10 +52,10 @@
 </head>
 <body>
 <div class="desk">
-    <h1>DESK</h1>
+    <h1>DESK 한글 왜 깨짐</h1>
     <div class="device-container">
         <div class="device" onclick="showLogin('iphone')">
-            <img src="iphone_image.jpg" alt="iPhone">
+            <img src="../../assets/img/iphone_test.jpg" alt="iPhone" style="width: 200px; height: 200px;">
         </div>
         <div class="device" onclick="showLogin('ipad')">
             <img src="ipad_image.jpg" alt="iPad">
