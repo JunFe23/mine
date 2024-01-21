@@ -55,7 +55,7 @@
     <h1>DESK 한글 왜 깨짐</h1>
     <div class="device-container">
         <div class="device" onclick="showLogin('iphone')">
-            <img src="../../assets/img/iphone_test.jpg" alt="iPhone" style="width: 200px; height: 200px;">
+            <img src="../../assets/img/iphone_test.png" alt="iPhone" style="width: 200px">
         </div>
         <div class="device" onclick="showLogin('ipad')">
             <img src="ipad_image.jpg" alt="iPad">
