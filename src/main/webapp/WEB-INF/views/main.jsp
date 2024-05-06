@@ -1,13 +1,14 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MY DESK</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Noto Sans KR', sans-serif; /* 한글 폰트 지정 */
             background-color: #f4f4f4;
             margin: 0;
             padding: 0;
@@ -52,13 +53,13 @@
 </head>
 <body>
 <div class="desk">
-    <h1>DESK 한글 왜 깨짐</h1>
+    <h1>DESK</h1>
     <div class="device-container">
         <div class="device" onclick="showLogin('iphone')">
             <img src="../../assets/img/iphone_test.png" alt="iPhone" style="width: 200px">
         </div>
         <div class="device" onclick="showLogin('ipad')">
-            <img src="ipad_image.jpg" alt="iPad">
+            <img src="../../assets/img/ipad.png" alt="iPad" style="width: 500px">
         </div>
         <div class="device" onclick="showLogin('galaxy_phone')">
             <img src="galaxy_phone_image.jpg" alt="Galaxy Phone">
